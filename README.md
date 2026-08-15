@@ -56,15 +56,15 @@ Open http://localhost:5173.
 
 ### Dashboard
 
-![Vehicle Invoice Dashboard](screenshots/dashboard.png)
+![Vehicle Invoice Dashboard](output_screenshots/dashboard.png)
 
 ### Vehicle Invoice History Details
 
-![Invoice Details](screenshots/invoice-history-details.png)
+![Invoice Details](output_screenshots/invoice-history-details.png)
 
 ### Search Filter
 
-![SEarch Filter](screenshots/search-filter.png)
+![SEarch Filter](output_screenshots/search-filter.png)
 
 ## Production improvements I would discuss in an interview
 
