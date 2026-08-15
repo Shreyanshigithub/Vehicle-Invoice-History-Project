@@ -52,6 +52,20 @@ Open http://localhost:5173.
 
 `sample-invoices/` contains the invoice supplied for the assessment. It is a text-based PDF, so the demo uses the PDF extraction path. The parser is deliberately kept as a small, readable service instead of hiding the business logic in a large framework.
 
+## Screenshots
+
+### Dashboard
+
+![Vehicle Invoice Dashboard](screenshots/dashboard.png)
+
+### Vehicle Invoice History Details
+
+![Invoice Details](screenshots/invoice-history-details.png)
+
+### Search Filter
+
+![SEarch Filter](screenshots/search-filter.png)
+
 ## Production improvements I would discuss in an interview
 
 - Replace the local OCR adapter with AWS Textract / Google Document AI for more varied invoice formats.
