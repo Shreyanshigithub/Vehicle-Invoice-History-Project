@@ -1,0 +1,16 @@
+VEHICLE INVOICE HISTORY - START HERE
+
+1) Install Node.js 18+ and MongoDB, OR run: docker compose up -d
+2) Backend:
+   cd backend
+   npm install
+   copy .env.example .env   (Windows)
+   npm run dev
+3) Frontend in another terminal:
+   cd frontend
+   npm install
+   npm run dev
+4) Open http://localhost:5173
+5) Upload sample-invoices/sample-invoice.pdf
+
+The project is intentionally kept readable: React -> Express API -> extraction/parser -> MongoDB -> history/alert logic.
